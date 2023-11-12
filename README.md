@@ -1,6 +1,6 @@
-## Quantum.rofl Private Da Hood / Blade Ball Script
+# Quantum.rofl Private Da Hood / Blade Ball Script
 
-# Features
+## Features
 
 * 500+ Line Table
 * Walkable Desync
@@ -24,19 +24,19 @@
 * GunSettings | (Every Da-Hood Gun)
 * Customizable GUI | Name, Watermark-Name, Hide-Keybind, GUI-Type
 
-# Unfinished Projects for Quantum.rofl
+## Unfinished Projects for Quantum.rofl
 
 * External Triggerbot (Colorbased
 * Legit Mode
 * Player Sniper Webhook
 
-# Info
+## Info
 
 * Will never go public / Never be sold
 * 0 Fps Drops
 * #1 For Legit
 
-# Silent Aim (SilentBot)
+## Silent Aim (SilentBot)
 
 * Hitting (Closestpoint, Closestpart, Part) | (1, 2, 3)
 * Fov (Color, Rainbow, Filled, Sides, Thickness)
@@ -49,7 +49,7 @@
 * Hitchance (Intensity, %)
 * Missing (Chance, Intensity X+Y+Z)
 
-# Camera Aim (Aimbot)
+## Camera Aim (Aimbot)
 
 * Hitting (Closestpoint, Closestpart, Part) | (1, 2, 3)
 * Fov (Color, Rainbow, Filled, Sides, Thickness)
@@ -61,7 +61,7 @@
 * Shake (X+Y+Z)
 * Smoothing (Bezier CurvePoints, Easing Styles | Style, Direction |, Smoothing Amount)
 
-# Trigger Bot (Triggerbot)
+## Trigger Bot (Triggerbot)
 
 * Prediction (Amount, Method | Legit, Blatant |)
 * Delay (Miliseconds)
@@ -69,8 +69,24 @@
 * Hitparts (Option)
 * Mode (Legit, Blatant)
 
-# Blade Ball
+## Blade Ball
 
 * Auto Parry 
 * Spam Parry (Spamming Modes) Auto, Manual | (Manual Modes) Toggle, Hold |
 * Orbit Ball (Optional of course)
+* Ability Spammer (Custom Ability)
+
+## Displays
+
+* Watermark (FPS, Ping, Date, GameId, JobId) Drawing.new instance
+* Part ESP (Highlight Instace), Multiple Parts
+
+## ESP
+
+* Box
+* Distance
+* Name
+* Health
+* Walking Flag | (Walkspeed, Move Direction)
+* Jumping Flag | (Up, Down), Up and Down are optional btw
+* Velocity Flag | X, Y, Z
