@@ -6,8 +6,9 @@
 * Blade Ball
 * Frontlines (Simple Aimbot)
 * Sound Space (Simple Automation)
-* Five Duels (Part, FOV, Velocity Prediction)
-* Rush Point (Part, FOV, TeamCheck)
+* Five Duels (Silent Aim, Part, FOV, Velocity Prediction)
+* Rush Point (Silent Aim, Part, FOV, TeamCheck)
+* No Scope Arcade (Silent Aim, Part, Triggerbot, GunModifiers, FOV)
 
 ## Features
 
