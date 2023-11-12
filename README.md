@@ -1,3 +1,5 @@
+## Quantum.rofl Private Da Hood / Blade Ball Script
+
 # Features
 
 * 500+ Line Table
@@ -17,12 +19,12 @@
 * #1 Blade Ball SpamParry | Modes (Manual, Automatic), Etc | (All Optional)
 * #1 ESP | Box, Distance, Name, Health, Flags (Walking, Jumping, Velocity) | (All Optional)
 * #1 Resolver | 4+ Methods, Custom Prediction, Detection, AutoPrediction | (All Optional)
-* Best Displays | Drawing.new Watermark (FPS, Ping, Date, GameId, JobId), Part ESP |
+* Best Displays | Drawing.new Watermark (FPS, Ping, Date, GameId, JobId), Part ESP | PartESP (Highlight Instance)
 * Anti Aim Viewer
 * GunSettings | (Every Da-Hood Gun)
 * Customizable GUI | Name, Watermark-Name, Hide-Keybind, GUI-Type
 
-# Unfinished Projects for RedLightWareV4
+# Unfinished Projects for Quantum.rofl
 
 * External Triggerbot (Colorbased
 * Legit Mode
@@ -66,3 +68,9 @@
 * Radius (FOV Radius)
 * Hitparts (Option)
 * Mode (Legit, Blatant)
+
+# Blade Ball
+
+* Auto Parry 
+* Spam Parry (Spamming Modes) Auto, Manual | (Manual Modes) Toggle, Hold |
+* Orbit Ball (Optional of course)
