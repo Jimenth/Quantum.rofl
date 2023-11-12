@@ -1,4 +1,12 @@
-# Quantum.rofl Private Da Hood / Blade Ball Script
+# Quantum.rofl Private Roblox Lua
+
+## Supported Games 
+
+* Da Hood
+* Blade Ball
+* Frontlines (Simple Aimbot)
+* Sound Space (Simple Automation)
+* Five Duels (Part, FOV, Velocity Prediction)
 
 ## Features
 
