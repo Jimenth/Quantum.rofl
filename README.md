@@ -1,8 +1,8 @@
 # Features
 
-500+ Line Table
-Walkable Desync
-Custom Recoil
+* 500+ Line Table
+* Walkable Desync
+* Custom Recoil
 13 Checks (All Optional)
 FE Animations
 Chat Commands
