@@ -62,5 +62,5 @@ Smoothing (Bezier CurvePoints, Easing Styles | Style, Direction |, Smoothing Amo
 Prediction (Amount, Method | Legit, Blatant |)
 Delay (Miliseconds)
 Radius (FOV Radius)
-Hitparts (Optional)
+Hitparts (Option)
 Mode (Legit, Blatant)
