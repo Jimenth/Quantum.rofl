@@ -9,6 +9,8 @@
 * Five Duels (Silent Aim, Part, FOV, Velocity Prediction)
 * Rush Point (Silent Aim, Part, FOV, TeamCheck)
 * No Scope Arcade (Silent Aim, Part, Triggerbot, GunModifiers, FOV)
+* State Of Anarchy (Simple Silent Aim)
+* Anarchy (Hitbox Expander, (Custom Hitbox), (Customizable Hitbox Part | X, Y, Z Size, Color, Transparency)
 
 ## Features
 
