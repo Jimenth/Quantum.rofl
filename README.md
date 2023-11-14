@@ -1,10 +1,22 @@
-# Quantum.rofl Private Roblox Lua
+# Quantum.rofl 
+
+## Well How Do i Get This?
+
+* It is currently $200 US for a lifetime whitelist
+
+## What Do I Get?
+
+* Largest Roblox Script (8 Supported Games)
+* 2 Secret Additions (Soon)
+* No Bullet Delay (Private Method), (Da Hood)
+* Custom Recoil (Da Hood)
+* Constant Updates
+* Private Only 2 people have the source code
 
 ## Supported Games 
 
 * Da Hood
 * Blade Ball
-* Frontlines (Simple Aimbot)
 * Sound Space (Simple Automation)
 * Five Duels (Silent Aim, Part, FOV, Velocity Prediction)
 * Rush Point (Silent Aim, Part, FOV, TeamCheck)
@@ -35,12 +47,6 @@
 * Anti Aim Viewer
 * GunSettings | (Every Da-Hood Gun)
 * Customizable GUI | Name, Watermark-Name, Hide-Keybind, GUI-Type
-
-## Unfinished Projects for Quantum.rofl
-
-* External Triggerbot (Colorbased
-* Legit Mode
-* Player Sniper Webhook
 
 ## Info
 
@@ -102,3 +108,9 @@
 * Walking Flag | (Walkspeed, Move Direction)
 * Jumping Flag | (Up, Down), Up and Down are optional btw
 * Velocity Flag | X, Y, Z
+
+## Unfinished Projects for Quantum.rofl
+
+* Lua Execution
+* Legit Mode
+* Player Sniper Webhook (Pretty much done. Just needs to be hosted)
