@@ -2,7 +2,7 @@
 
 ## Well How Do i Get This?
 
-* It is currently $200 US for a lifetime whitelist
+* You Don't
 
 ## What Do I Get?
 
