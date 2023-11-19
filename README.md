@@ -6,7 +6,7 @@
 
 ## What Do I Get?
 
-* Largest Roblox Script (8 Supported Games)
+* Largest Roblox Aiming Script (8 Supported Games)
 * 2 Secret Additions (Soon)
 * No Bullet Delay (Private Method), (Da Hood)
 * Custom Recoil (Da Hood)
